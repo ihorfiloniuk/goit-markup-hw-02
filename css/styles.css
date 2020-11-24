@@ -12,8 +12,7 @@
   font-weight: bold;
 }
 
-.navigation-list-item {
-  color: #2196f3;
+.navigation-list {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -22,7 +21,6 @@
 }
 
 .navigation-list-link {
-  color: black;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
