@@ -20,60 +20,6 @@
   line-height: 1.142;
 }
 
-.navigation-list-studio {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #2196f3;
-}
-
-.navigation-list-portfolio {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #212121;
-}
-
-.navigation-list-contact {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #212121;
-}
-
-.navigation-list-studio-port {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #212121;
-}
-
-.navigation-list-portfolio-port {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #2196f3;
-}
-
-.navigation-list-contact-port {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #212121;
-}
-
 .navigation-list:hover,
 .navigation-list:focus {
   color: #2196f3;
