@@ -39,3 +39,8 @@
   background-color: #2196f3;
   color: white;
 }
+
+.address-nav:hover,
+.address-nav:focus {
+  color: #2196f3;
+}
