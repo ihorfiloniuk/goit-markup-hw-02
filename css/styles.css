@@ -73,3 +73,8 @@
   line-height: 1.142;
   color: #212121;
 }
+
+.navigation-list:hover,
+.navigation-list:focus {
+  color: #2196f3;
+}
