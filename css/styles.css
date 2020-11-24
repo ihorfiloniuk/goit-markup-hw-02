@@ -49,3 +49,21 @@
 .address-mail:focus {
   color: #2196f3;
 }
+
+.address-tel {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: #757575;
+}
+
+.address-mail {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: #757575;
+}
