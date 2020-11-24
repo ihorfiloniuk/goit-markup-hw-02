@@ -38,6 +38,14 @@
   color: #212121;
 }
 
+.navigation-list-contact {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: #212121;
+}
 .navigation-list-link {
   font-family: "Roboto", sans-serif;
   font-style: normal;
