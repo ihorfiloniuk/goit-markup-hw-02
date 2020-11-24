@@ -36,6 +36,6 @@
 }
 .navigation-list-portfolio:hover,
 .navigation-list-portfolio:focus {
-  background: #2196f3;
+  background-color: #2196f3;
   color: white;
 }
