@@ -44,3 +44,8 @@
 .address-tel:focus {
   color: #2196f3;
 }
+
+.address-mail:hover,
+.address-mail:focus {
+  color: #2196f3;
+}
