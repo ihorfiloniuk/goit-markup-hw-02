@@ -21,7 +21,21 @@
 }
 
 .navigation-list-studio {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
   color: #2196f3;
+}
+
+.navigation-list-portfolio {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  color: #212121;
 }
 
 .navigation-list-link {
