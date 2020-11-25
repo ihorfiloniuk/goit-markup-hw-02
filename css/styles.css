@@ -41,24 +41,13 @@
 }
 
 .address-tel:hover,
-.address-tel:focus {
-  color: #2196f3;
-}
-
+.address-tel:focus,
 .address-mail:hover,
 .address-mail:focus {
   color: #2196f3;
 }
 
-.address-tel {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  color: #757575;
-}
-
+.address-tel,
 .address-mail {
   font-family: "Roboto", sans-serif;
   font-style: normal;
