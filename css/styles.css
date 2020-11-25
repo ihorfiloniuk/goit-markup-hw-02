@@ -97,3 +97,14 @@
   letter-spacing: 0.03em;
   color: black;
 }
+
+.hero-baner {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
