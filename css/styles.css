@@ -68,26 +68,8 @@
   color: #757575;
 }
 
-.address-map-footer {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  color: black;
-}
-
-.address-tel-footer {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.714;
-  letter-spacing: 0.03em;
-  color: black;
-}
-
+.address-map-footer,
+.address-tel-footer,
 .address-mail-footer {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -103,8 +85,17 @@
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1, 363;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: black;
+}
+
+.hero-button {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.875;
+  background: #2196f3;
 }
