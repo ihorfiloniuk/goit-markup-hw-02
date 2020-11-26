@@ -6,7 +6,7 @@
   font-size: 26px;
   line-height: 1.192;
   letter-spacing: 0.03em;
-  word-spacing: 0px;
+  word-spacing: inherit;
 }
 
 .logo-studio {
@@ -17,7 +17,7 @@
   font-size: 26px;
   line-height: 1.192;
   letter-spacing: 0.03em;
-  word-spacing: 0px;
+  word-spacing: inherit;
 }
 
 .navigation-list {
@@ -96,6 +96,7 @@
   font-size: 16px;
   line-height: 1.875;
   background: #2196f3;
+  color: wheat;
 }
 
 .benefits-item-heading {
