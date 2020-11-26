@@ -1,15 +1,21 @@
 .logo-web {
   color: #2196f3;
   font-family: "Raleway", sans-serif;
-  font-style: normal;
+  font-style: 900;
   font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
 }
 
 .logo-studio {
   color: black;
   font-family: "Raleway", sans-serif;
-  font-style: normal;
+  font-style: 900;
   font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
 }
 
 .navigation-list {
